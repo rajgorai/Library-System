@@ -1,26 +1,2 @@
-# Database
 online_library.db
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.pyc
-
-# Virtual Environment
-.venv/
-venv/
-env/
-
-# Environment variables
-.env
-
-# IDE / Editor
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS files
-.DS_Store
-Thumbs.db
+update_db.py
